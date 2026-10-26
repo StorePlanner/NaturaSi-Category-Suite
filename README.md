@@ -10,7 +10,7 @@
 
 <h2>📋 Overview</h2>
 <p>
-    The <strong>RELEX Category Suite (V72)</strong> is a specialized, web-based Control Tower and calculation engine designed for the NaturaSì Grocery Business Unit. It bridges the gap between Central Headquarters' inventory optimization goals and the Store Managers' visual merchandising needs.
+    The <strong>RELEX Category Suite</strong> is a specialized, web-based Control Tower and calculation engine designed for the NaturaSì Grocery Business Unit. It bridges the gap between Central Headquarters' inventory optimization goals and the Store Managers' visual merchandising needs.
 </p>
 <p>
     By processing raw Excel data, the suite mathematically converts real sales data, product dimensions, and supply chain constraints into perfectly calibrated ordering parameters (<strong>Presentation Minimums</strong> and <strong>Shelf Maximums</strong>) ready to be imported into RELEX Plain.
