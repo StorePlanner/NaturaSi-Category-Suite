@@ -2,7 +2,7 @@
 <meta http-equiv="refresh" content="0; url=index.html">
 
 <div align="center">
-  <h1>NaturaSì RELEX Category Suite (V72)</h1>
+  <h1>NaturaSì RELEX Category Suite</h1>
   <p><strong>Control Tower & Calculation Engine for Inventory Optimization</strong></p>
 </div>
 
