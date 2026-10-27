@@ -2,6 +2,7 @@ COPYRIGHT AND PROPRIETARY SOFTWARE LICENSE
 All Rights Reserved
 
 Copyright (c) 2026 Massimo Maggipinto
+Version: 1.3.0 GOLDEN GATE
 
 1. OWNERSHIP
 This software, including all associated source code, documentation, UI/UX design, algorithms, and related files (collectively referred to as the "Software"), is the exclusive, proprietary property of Massimo Maggipinto. 
