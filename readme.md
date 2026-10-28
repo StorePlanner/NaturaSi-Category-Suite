@@ -1,22 +1,22 @@
 # NaturaSì RELEX Category Suite
 **Control Tower & Calculation Engine for Inventory Optimization**
-*Release: V1.5.08 BETA*
+*Release: V1.5.10 BETA*
 
 ## 📋 Overview
 The RELEX Category Suite is a specialized, web-based Control Tower and calculation engine designed for the NaturaSì Grocery Business Unit. It bridges the gap between Central Headquarters' inventory optimization goals and the Store Managers' visual merchandising needs.
 
 By processing raw Excel data, the suite mathematically converts real sales data, product dimensions, and supply chain constraints into perfectly calibrated ordering parameters (Presentation Minimums and Shelf Maximums) ready to be imported into RELEX Plain.
 
-## 🚀 Key Features (V1.5.08 BETA)
+## 🚀 Key Features (V1.5.10 BETA)
 - **Advanced Algorithmic Replenishment:** Dynamically calculates optimal shelf parameters based on weekly sales, delivery schedules (including Sunday buffers), and physical packaging matrices.
 - **Glassmorphism UI:** Redesigned sticky headers with high-transparency blur effects and frosted glass secondary buttons for a macOS-like experience.
 - **Dynamic Color Paradigm:** Introduction of "Life" (Emerald Green) and "Death" (Coral Red) variables for intuitive status identification across Light/Dark modes.
+- **Dark Mode CSS Fixes:** Resolved inline style overrides on alert modal footers and button contrasts in dark theme mode.
 - **Smart Filtering:** Dynamic "Invert Selection" capability in filter popups and contextual search placeholders.
 - **Excel-like UI/UX:** Data grid supporting column drag-selection, multi-sort, filtering, native Excel export (View vs. Full Tab), and quick row-copy via right-click.
 - **Assortment Diagnostics (Diag):** Automatically audits the store's inventory to flag anomalies such as dead stock, negative inventory, or missing "Must Have" products.
 - **Interactive Changelog:** Direct access to the evolutionary version history directly from the main header.
 - **Phase-Out Capping Protocol:** Enhanced logic for Status 20 products (Pre-Eliminated) to apply logistical capping (Max = Case Pack) instead of complete delisting if the product is still active.
-- **Advanced Excel Clipboard Injector:** Re-engineered multi-format copy engine (Plain Text + invisible HTML Table Data) to force RELEX's grid to natively accept empty cells during bulk overwrites, completely resolving the Drop Value bug.
 
 ## 🛠️ Tech Stack
 - **Frontend:** Pure HTML5, CSS3, Vanilla JavaScript (ES6+).
