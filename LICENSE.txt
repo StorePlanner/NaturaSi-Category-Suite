@@ -1,0 +1,28 @@
+END USER LICENSE AGREEMENT (EULA) & TERMS OF USE
+NaturaSì Relex Category Optimizer (V2.0.4 BETA)
+
+Copyright (c) 2026 Massimo Maggipinto
+
+1. OWNERSHIP AND INTELLECTUAL PROPERTY
+This software (hereinafter referred to as the "Software") is an experimental, non-commercial tool architected, engineered, and developed by Massimo Maggipinto in his capacity as an employee of EcorNaturaSì S.p.A.
+All proprietary operational know-how, business logic, supply chain algorithms, and retail methodologies embedded within the Software are the exclusive intellectual property of EcorNaturaSì S.p.A.
+This Software may not be copied, modified, redistributed, sold, or sublicensed under any circumstances without explicit written authorization.
+
+2. TRADEMARKS AND LOGOS
+The names "EcorNaturaSì" and "NaturaSì", as well as their respective logos and branding, are registered trademarks of EcorNaturaSì S.p.A.
+The name "RELEX" and its associated trademarks are the property of RELEX Solutions.
+The custom logo featured within this Software is a fantasy design, modified specifically for this project. It is merely "inspired" by existing corporate designs, is not officially registered, and does not imply an official endorsement or direct affiliation with the aforementioned corporate entities.
+
+3. PRIVACY AND DATA HANDLING
+This Software is a local Client-Side application (Single-Page Application). All data processing, analysis, and operations occur strictly within the user's local browser environment. Absolutely no data, Excel files, inventory metrics, or proprietary business information are transmitted to the internet, cloud servers, or any external repository. 
+While the source code may be hosted on a public repository (e.g., GitHub) for accessibility purposes, zero user data is collected or tracked.
+
+4. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+Being a "BETA" and experimental release, the Software may contain bugs, calculation errors, or operational flaws.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR (MASSIMO MAGGIPINTO) OR ECORNATURASÌ S.P.A. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The user assumes all risks associated with the utilization of this Software. The author assumes absolutely no responsibility for inaccurate data outputs, corrupted metrics, misaligned inventory uploads to enterprise systems, or any direct or indirect damage (including hardware or software failure) that may result from executing this application.
+
+By using this Software, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions.
