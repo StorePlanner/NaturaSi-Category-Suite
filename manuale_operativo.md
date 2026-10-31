@@ -1,4 +1,4 @@
-# Manuale Operativo: NaturaSì Relex Category Optimizer (V2.2)
+# Manuale Operativo: NaturaSì Relex Category Optimizer (V2.0)
 
 Benvenuti nella guida ufficiale all'uso del **NaturaSì Relex Category Optimizer**. Questa applicazione è stata progettata per assistere gli Store Planner e il personale di negozio nella gestione quotidiana del riordino, incrociando i freddi dati statistici di RELEX con la realtà fisica e visiva dello scaffale (Visual Merchandising).
 
@@ -52,7 +52,6 @@ L'interfaccia è divisa in 5 schede di lavoro (Tab), ciascuna identificata da un
 
   * `Attivi da Razionalizzare`: Filtra i prodotti a cui limitare le scorte (es. Vetrina *Max 1* per prodotti costosi o *Capping a 1 cartone* per svuotare il magazzino centrale).
 
-  * `Sovrastock (Sperimentale)`: Isola sospetti errori di battitura in eccesso calcolando la copertura in settimane al netto delle promozioni.
   * `Deadstock`: Filtra i "morti certi". Articoli da spegnere definitivamente (`Assortimento: NO`).
 
 ### 🟢 4. Sviluppo Assortimento (Le Opportunità Gaps)
