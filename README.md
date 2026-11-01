@@ -1,4 +1,4 @@
-# NaturaSì Relex Category Optimizer (V2.3.0 BETA)
+# NaturaSì Relex Category Optimizer (V2.3.2 BETA)
 **Category Optimizer** è una Single-Page Application (SPA) avanzata, sviluppata per supportare gli Store Planner e i Category Manager nell'ottimizzazione dell'assortimento e nella parametrizzazione del software di Supply Chain **RELEX Solutions**.
 
 ## La Ricerca e il Pensiero alla Base del Progetto
