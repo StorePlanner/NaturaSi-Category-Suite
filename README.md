@@ -1,7 +1,7 @@
 # NaturaSì Relex Category Optimizer (V2.5.3 BETA)
 **Category Optimizer** è una Single-Page Application (SPA) avanzata, sviluppata per supportare gli Store Planner e i Category Manager nell'ottimizzazione dell'assortimento e nella parametrizzazione del software di Supply Chain **RELEX Solutions**.
 
-## Architettura del Motore V2.5.0 (Revisione Certificata)
+## Architettura del Motore V2.5.3 (Revisione Certificata)
 Questa release introduce la piena convergenza con il Manuale Tecnico di Relex Solutions:
 1. **Passo 0 - Profilazione Strategica a Monte:** Ingestione e mappatura dei 4 Ruoli di Categoria (Destinazione, Traffico, Servizio, Impulso) da matrice Area × Prezzo, con integrazione dei metadati di matrice Relex (ABC/XYZ).
 2. **Formula ROP & Minimi:** Disaccoppiamento tra Fabbisogno Logistico (Lead Time Need) e Pavimento Visuale (Floor Presentation).
