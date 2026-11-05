@@ -1,12 +1,12 @@
-# NaturaSì Relex Category Optimizer (V3.0.2 BETA)
+# NaturaSì Relex Category Optimizer (V3.5.0 BETA)
 **Category Optimizer** è una Single-Page Application (SPA) avanzata, sviluppata per supportare gli Store Planner e i Category Manager nell'ottimizzazione dell'assortimento e nella parametrizzazione del software di Supply Chain **RELEX Solutions**.
 
-## Architettura del Motore V3.0.2 (Motore Deterministico Cross-Store)
-Questa release risolve definitivamente il disallineamento operativo ("effetto altalena") tra i moduli 3 e 4:
-1. **Scudo Anti-Zombie in Sviluppo Assortimento (Tab 4):** Le referenze con giacenza non assortite (`isOrphan`) vengono promosse a "Giacenza Vendente" SOLO se registrano una rotazione solida accertata (almeno 1 pezzo a settimana oppure almeno 40 pezzi venduti in 365 giorni) e non sono dormienti da oltre 60 giorni. Tutte le code lente (1, 2, 5 o 10 pezzi/anno) vengono escluse da Tab 4 per evitare riordini accidentali a cartone.
-2. **Scudo Prodotti Vivi in Razionalizzazione (Tab 3):** Nessun articolo attivo o con stock residuo viene proposto per lo spegnimento (`stato_relex: 'No'`) se ha venduto negli ultimi 30 giorni (`days <= 30`) o se registra una vendita annuale sana (almeno 20 pezzi nel Secco o 12 pezzi nel Non-Food), a prescindere dal fatto che appartenga a cluster facoltativi (`XXL`).
-3. **Scudo Ruoli e Sbarramento Minimo sui Booster Dimensionali:** I booster `Deep` (+25%) e `Length 133` (+33%) si applicano unicamente alle categorie di Traffico e Destinazione ad alta rotazione (almeno 50 pezzi/anno o 1 pezzo a settimana).
-4. **Color Blocking Selettivo:** Riservato a prodotti di Traffico dell'Area Secco e al reparto Cura Persona di Cosmesi.
+## Architettura del Motore V3.5.0 (Integrazione Catalogo ECR 2.0)
+Questa major release aggiorna la matrice del motore d'intelligenza artificiale, abbandonando l'euristica generica per integrare la classificazione ufficiale del portafoglio prodotti EcorNaturaSì:
+1. **Assegnazione Ruoli Strategici:** I 4 ruoli (Traffico, Destinazione, Servizio, Impulso) sono ora assegnati in base a specifiche combinazioni di Reparto, Sottocategoria e fasce prezzo definite (es. Paste/Bevande vegetali base = Traffico, Macrobiotica = Servizio, Pet Care monoporzione = Impulso).
+2. **Capitale Protetto Esteso:** La protezione della logistica contro l'Overstock (Vetrina o limitazione a 1 Collo) è stata allargata a tutte le referenze di "Servizio" del nuovo albero (oli monovarietali, mieli speciali, integratori, cosmesi curativa).
+3. **Rollout Scientifico:** L'impianto prodotti sfrutta ora l'analisi ABC/XYZ calcolata in origine, escludendo i rami secchi a livello di rete e limitando l'ingombro finanziario in avvio.
+4. **Scudi di Razionalizzazione (Tab 3) e Anti-Zombie (Tab 4):** Prodotti dormienti vengono disattivati chirurgicamente rispettando la vita utile della loro categoria.
 
 ## Utilizzo
 L'applicazione è fruibile direttamente come Web App desktop da browser.
