@@ -1,6 +1,6 @@
 <p align="center"><img src="NaturaSi_Category_Suite_Logo.png" alt="NaturaSì × RELEX" width="460"></p>
 
-# NaturaSì Relex Category Optimizer · V4.2.01 BETA
+# NaturaSì Relex Category Optimizer · V4.2.03 BETA
 
 Strumento interno del Team B.U. Grocery di EcorNaturaSì per gli store planner di sede. Legge l'export RELEX di un negozio (.xlsx) e propone minimi, massimi e interventi di assortimento in cinque tab: Setup, Diagnostica, Razionalizzazione, Sviluppo e Rollout.
 

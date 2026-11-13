@@ -1,5 +1,5 @@
 END USER LICENSE AGREEMENT (EULA) & TERMS OF USE
-NaturaSì Relex Category Optimizer (V4.2.01 BETA)
+NaturaSì Relex Category Optimizer (V4.2.03 BETA)
 
 Copyright (c) 2026 Massimo Maggipinto
 
