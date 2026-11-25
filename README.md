@@ -1,6 +1,6 @@
-<p align="center"><img src="NaturaSi_Category_Suite_Logo.png" alt="NaturaSì × RELEX" width="460"></p>
+<p align="center"><img src="NaturaSi_Category_Optimizer_Logo.png" alt="NaturaSì Category Optimizer" width="460"></p>
 
-# NaturaSì Relex Category Optimizer · V4.2.11 BETA
+# NaturaSì Relex Category Optimizer · V4.2.13 BETA
 
 Strumento interno del Team B.U. Grocery di EcorNaturaSì per gli store planner di sede. Legge l'export RELEX di un negozio (.xlsx) e propone minimi, massimi e interventi di assortimento in cinque tab: Setup, Diagnostica, Razionalizzazione, Sviluppo e Rollout.
 
@@ -17,10 +17,12 @@ L'export resta sul computer: l'app lo legge nel browser e non lo invia a nessun 
 | File | A cosa serve |
 |---|---|
 | `index.html` | L'app, compattata per la pubblicazione |
-| `NaturaSi_Category_Suite_Logo.svg` | Logo mostrato dall'app |
-| `NaturaSi_Category_Suite_Logo.png`, `NaturaSi_Category_Suite_Logo.JPG` | Logo in formato immagine (il PNG è quello in cima a questa pagina) |
-| `favicon.ico`, `favicon-16x16.png`, `favicon-32x32.png`, `apple-touch-icon.png` | Icone della scheda del browser e dei preferiti |
-| `android-chrome-192x192.png`, `android-chrome-512x512.png`, `site.webmanifest` | Resto del pacchetto icone: l'app non li richiama, restano pronti per un collegamento sulla schermata Home |
+| `NaturaSi_Category_Optimizer_Logo.svg` | Simbolo mostrato dall'app nell'intestazione |
+| `NaturaSi_Category_Optimizer_Logo.png`, `NaturaSi_Category_Optimizer_Logo.JPG` | Logo orizzontale in formato immagine (il PNG è quello in cima a questa pagina) |
+| `favicon.ico`, `favicon.svg`, `favicon-16x16.png`, `favicon-32x32.png` | Icone della scheda del browser e dei preferiti |
+| `apple-touch-icon*.png`, `safari-pinned-tab.svg` | Icone di iPhone, iPad e Safari |
+| `android-chrome-*.png`, `maskable-icon-*.png`, `site.webmanifest` | Icone di Android e collegamento sulla schermata Home |
+| `mstile-*.png`, `browserconfig.xml` | Tile di Windows |
 | `LICENSE.txt` | Licenza d'uso |
 | `.gitignore` | Evita di caricare per sbaglio export e dati dei negozi (.xlsx, .csv) |
 | `.nojekyll` | Fa pubblicare a GitHub Pages i file così come sono |
