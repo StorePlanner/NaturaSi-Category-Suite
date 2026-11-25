@@ -1,6 +1,6 @@
 <p align="center"><img src="NaturaSi_Category_Suite_Logo.png" alt="NaturaSì × RELEX" width="460"></p>
 
-# NaturaSì Relex Category Optimizer · V4.2.08 BETA
+# NaturaSì Relex Category Optimizer · V4.2.09 BETA
 
 Strumento interno del Team B.U. Grocery di EcorNaturaSì per gli store planner di sede. Legge l'export RELEX di un negozio (.xlsx) e propone minimi, massimi e interventi di assortimento in cinque tab: Setup, Diagnostica, Razionalizzazione, Sviluppo e Rollout.
 
@@ -8,7 +8,7 @@ Strumento interno del Team B.U. Grocery di EcorNaturaSì per gli store planner d
 
 1. Apri la pagina dell'app da computer, con un browser aggiornato. Da smartphone e tablet l'app mostra un avviso e non si apre.
 2. Carica l'export RELEX del negozio.
-3. Imposta nel Setup i giorni di consegna e i booster, poi lavora i tab.
+3. Imposta nel Setup i giorni di consegna, poi lavora i tab. I booster sono spenti all'avvio: si accendono in un secondo passaggio, dopo una visita in negozio.
 
 L'export resta sul computer: l'app lo legge nel browser e non lo invia a nessun server. La connessione serve solo per le librerie che leggono e scrivono Excel e PDF (cdnjs) e per i caratteri (Google Fonts).
 
